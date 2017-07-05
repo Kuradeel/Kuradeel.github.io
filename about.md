@@ -8,5 +8,5 @@ A Computer Science GCSE student in Britain, Likes Fallout 4, Skyrim and other Ga
 
 ### More Information
 
-I have to make this blogging website for my lessons but usually I code my text based game in python 3
+I have to make this blogging website for my lessons but usually I code my text based game in python 3.
 
