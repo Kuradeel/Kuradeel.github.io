@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A computer Science GCSE student in Britain, Likes Fallout 4, Skyrim and other Games.  My main hobbys are gaming flyng my drone or reading.  I also Love skiing and have Skiid for GB, coming 4th in my age group in one Anglo - Français race.
+A Computer Science GCSE student in Britain, Likes Fallout 4, Skyrim and other Games.  My main hobbys are gaming flyng my drone or reading.  I also Love skiing and have Skiid for GB, coming 4th in my age group in one Anglo - Français race.
 
 ### More Information
 
