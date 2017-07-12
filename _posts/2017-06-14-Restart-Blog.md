@@ -1,5 +1,5 @@
 ---
-title: Why I have restarted my blog cause im a weeb
+title: Why I have restarted my blog
 layout: post
 author: freddie.steel
 permalink: /copy-of-using-github/
