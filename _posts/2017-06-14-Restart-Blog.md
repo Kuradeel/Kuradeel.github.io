@@ -7,6 +7,13 @@ source-id: 1nXdAKlKVy-cT2dlQNZHScK2kufUFvl9sVE0GLowgj3w
 published: true
 ---
 
+<html>
+<head>
+<style>
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+
 <table>
   <tr>
     <td>Title</td>
