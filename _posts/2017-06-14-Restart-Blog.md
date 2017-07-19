@@ -11,9 +11,9 @@ published: true
 
 <table>
   <tr>
-    <td>Title</td>
+    <td>Title:</td>
     <td>Making a blog</td>
-    <td>Date</td>
+    <td>Date:</td>
     <td>01/01/01</td>
   </tr>
 </table>
@@ -53,7 +53,7 @@ published: true
     <td>I am trying to rebuild my blog better than before.  But its taking ages. D:</td>
   </tr>
   <tr>
-    <td>Moral of the Story</td>
+    <td>Moral of the Story:</td>
   </tr>
   <tr>
     <td>Don't copy a weeb’s website</td>
