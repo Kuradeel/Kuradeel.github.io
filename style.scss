@@ -64,7 +64,7 @@ ul.img-list li:hover span.text-content {
 }
 
 span.text-content {
-  background: rgba(0,0,0,0.5);
+  background: rgba(255,255,255,0.5);
   color: white;
   cursor: pointer;
   display: table;
@@ -74,10 +74,10 @@ span.text-content {
   top: 0;
   width: 600px;
   opacity: 0;
-  -webkit-transition: opacity 500ms;
-  -moz-transition: opacity 500ms;
-  -o-transition: opacity 500ms;
-  transition: opacity 500ms;
+  -webkit-transition: opacity 1000ms;
+  -moz-transition: opacity 1000ms;
+  -o-transition: opacity 1000ms;
+  transition: opacity 1000ms;
 }
 
 
